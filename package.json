@@ -2,7 +2,7 @@
   "name": "thomas-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Thoma77s.github.io/Thomas-React-Portfolio/",
+  "homepage": "https://thoma77s.github.io/Thomas-React-Portfolio/",
   "dependencies": {
     "-": "^0.0.1",
     "cra-template": "1.1.3",
