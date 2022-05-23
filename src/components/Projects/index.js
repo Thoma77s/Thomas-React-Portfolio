@@ -2,7 +2,7 @@ import React from 'react'
 import RunBuddyImage from '../../assets/Images/New-Run-Buddy-img.jpg';
 import PursuitImage from '../../assets/Images/pursuit-of-hoppyness-screenshot.png';
 import AlgorhythmImage from '../../assets/Images/algorhythm-app-screenshot.png';
-import Project3Image from '../../assets/Images/02-portfolio-3.jpg';
+import DutyDocketImage from '../../assets/Images/DutyDocket.png';
 import Project4Image from '../../assets/Images/02-portfolio-4.jpg';
 
 
@@ -50,12 +50,12 @@ function Projects() {
                 </div>
                 <div class="project-container">
                     <div class="card">
-                        <a href="project3"> 
-                        <img src={Project3Image}/>
+                        <a href="https://dutydocket.herokuapp.com/"> 
+                        <img src={DutyDocketImage}/>
                         </a>                 
                         <div class="card-block">
                             <p>
-                                 Project 3: 
+                                 Duty Docket: React
                             </p>
                         </div>
                     </div>
